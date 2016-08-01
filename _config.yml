@@ -1,10 +1,10 @@
 # Site settings
 title: GrooveNiño
 description: 'musik håndværker'
-url: 'https://groovenino.github.com'
+url: 'https://groovenino.github.io'
 baseurl: '/groovenino/'
 # google_analytics: 'UA-10305375'
-# disqus_shortname: 'your-disqus-name'
+# disqus_shortname: 'oscarftoro'
 
 author:
   name: 'OscarFelipe'
