@@ -4,10 +4,10 @@ description: 'musik håndværker'
 url: 'http://groovenino.com'
 baseurl: '/'
 # google_analytics: 'UA-10305375'
-# disqus_shortname: 'oscarftoro'
+# disqus_shortname: ''
 
 author:
-  name: 'OscarFelipe'
+  name: 'Grooveniño'
   email: oscar@groovenino.com
   twitter_username: groovenino
   facebook_username: groovenino
